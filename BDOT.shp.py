@@ -175,7 +175,7 @@ def main():
     print("Merging completed.")
 
 def print_usage():
-    print("Usage: python BDOT_sjp.exe [-h] [-x]")
+    print("Usage: python BDOT.shp.exe [-h] [-x]")
     print("Merges shapefiles from 'bdot.shp' directory based on suffixes, merging fields with same name.")
     print("Options:")
     print("  -h: Display this help message.")
